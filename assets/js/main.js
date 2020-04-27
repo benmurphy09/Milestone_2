@@ -29,8 +29,7 @@ window.onclick = function(event) {
     }
   }
 }
-<<<<<<< HEAD
-=======
+
 
 var slideSet = 0;
 
@@ -48,4 +47,3 @@ var showSlides = () => {
 };
 
 showSlides();
->>>>>>> f953fbc6f3e9bd107034585007eff23bcc93350f
